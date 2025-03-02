@@ -1,0 +1,4 @@
+site_name: Why Linux Is Better
+theme:
+  name: null
+  custom_dir: 'themes/whylinuxisbetter/'
