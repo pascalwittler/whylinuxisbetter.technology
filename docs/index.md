@@ -1,1 +1,0 @@
-# Why Linux Is Better
