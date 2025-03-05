@@ -1,0 +1,12 @@
+main {
+  display: grid;
+  grid-template-columns:
+    minmax(var(--page-content-margin), calc((100% - var(--page-content-width)) / 2))
+    1fr
+    minmax(var(--page-content-margin), calc((100% - var(--page-content-width)) / 2));
+  row-gap: var(--row-column-gap);
+}
+
+main > * {
+  grid-column: 2 / 2;
+}
