@@ -10,7 +10,6 @@ header {
 
 header h1 {
   grid-column: 2 / 2;
-  font-size: 48px;
-  line-height: 64px;
-  color: var(--color-brand-primary);
+  font-size: var(--font-size-h1);
+  line-height: var(--line-height-h1);
 }
