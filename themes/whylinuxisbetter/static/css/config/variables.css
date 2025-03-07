@@ -4,6 +4,8 @@ html {
 
   --row-column-gap: 30px;
 
+  --padding-header: 12px;
+
   --color-background-main: #f6f6f6;
   --color-text-main: #333333;
   --color-text-inverted: #ffffff;
