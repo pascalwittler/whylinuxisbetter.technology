@@ -16,6 +16,4 @@ header {
 
 header h1 {
   grid-column: 2 / 2;
-  font-size: var(--font-size-h1);
-  line-height: var(--line-height-h1);
 }

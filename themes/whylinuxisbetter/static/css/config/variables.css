@@ -14,7 +14,11 @@ html {
 
   --font-size-main: 18px;
   --font-size-h1: 40px;
+  --font-size-h2: 28px;
+  --font-size-h3: 20px;
 
   --line-height-main: 30px;
   --line-height-h1: 48px;
+  --line-height-h2: 36px;
+  --line-height-h3: 30px;
 }

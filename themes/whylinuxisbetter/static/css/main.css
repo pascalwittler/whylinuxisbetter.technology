@@ -1,5 +1,6 @@
 @import url('./config/variables.css');
 @import url('./config/reset.css');
+@import url('./config/typography.css');
 @import url('./config/fontfaces.css');
 
 @import url('./modules/header.css');
