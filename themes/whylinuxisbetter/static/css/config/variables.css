@@ -2,9 +2,10 @@ html {
   --page-content-width: 1280px;
   --page-content-margin: 30px;
 
-  --row-column-gap: 30px;
+  --column-gap: 30px;
 
   --padding-header: 12px;
+  --padding-main: 48px;
 
   --color-background-main: #f6f6f6;
   --color-text-main: #333333;

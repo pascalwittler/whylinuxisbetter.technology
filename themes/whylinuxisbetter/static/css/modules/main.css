@@ -4,9 +4,8 @@ main {
     minmax(var(--page-content-margin), calc((100% - var(--page-content-width)) / 2))
     1fr
     minmax(var(--page-content-margin), calc((100% - var(--page-content-width)) / 2));
-  row-gap: var(--row-column-gap);
-  padding-top: var(--row-column-gap);
-  padding-bottom: var(--row-column-gap);
+  padding-top: var(--padding-main);
+  padding-bottom: var(--padding-main);
 }
 
 main > * {
