@@ -24,6 +24,16 @@ But for the user, it usually means more pain, more waiting, more uninstalling of
 
 None of that with Linux. No program will nag you to subscribe, pay after a trial period is over, or just slow down your computer and make you wait some more while it boots up, just when you thought it was ready to use. Linux comes with everything that you need to start working right out of the box, but without the crapware.
 
+### Freedom!
+
+Linux and open source software in general is _free_. This means that its license is a _free license_, and the most common one is the _General Public License (GPL)_. This license says that anyone is allowed to copy the software, see the source code (the "recipe"), modify it, and redistribute it as long as it remains licensed under the GPL.
+
+So what do you care about freedom? Imagine that Microsoft disappearing tomorrow (okay, that's not very likely, but what about in 5 years, 10 years?). Or imagine that they suddenly tripled the price of a Windows or Office license. If you're locked into Windows, there's nothing you can do. You (or your business) depend on this one company, on their software, and you can't possibly make things work without it (What good is a computer without an operating system?).
+
+Isn't that a serious problem? You depend on a single company and trust them wholeheartedly to keep something as important as your computers running the way they should in these days. If Microsoft decides to move Windows to a paid subscription model, there's nothing you can do about it (except switch to Linux, of course). If Windows has a bug that really bothers you, and Microsoft won't fix it, there's nothing you can do about it. If a new version of Windows doesn't support your hardware anymore, there's nothing you can do about it.
+
+With open source, when a particular project or sponsoring company dies, all the code remains open to the community and people can continue to improve it. If this project is particulary useful to you, you can even do this yourself. If a particular bug annoys you, you can report it, talk to the developers, but even better, you can fix it yourself (or hire someone to do so), and send the changes back to the upstream developers so that everyone gets the improvement as well. You're free to do (almost) anything you want with the software.
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
