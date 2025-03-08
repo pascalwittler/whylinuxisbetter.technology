@@ -12,3 +12,25 @@ h3 {
   font-size: var(--font-size-h3);
   line-height: var(--line-height-h3);
 }
+
+h2 + * {
+  margin-top: var(--font-size-main);
+}
+
+h3 + * {
+  margin-top: var(--font-size-main);
+}
+
+* + h2 {
+  margin-top: var(--line-height-h2);
+}
+
+* + h3 {
+  margin-top: var(--line-height-h3);
+}
+
+p + p,
+p + ul,
+ul + p {
+  margin-top: 12px;
+}
