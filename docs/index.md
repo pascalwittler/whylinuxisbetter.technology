@@ -38,9 +38,9 @@ With open source, when a particular project or sponsoring company dies, all the 
 
 Installing Windows is just the beginning. Imagine you have just installed your brand-new copy of Windows 11 and are getting ready to unleash your computer skills. Okay, let's check for new email. Oh, there's no serious email client preinstalled on Windows. You could buy Microsoft Office to get Outlook up and running, or you could install Thunderbird. Either way, you have to go online, find a website where you can download an .exe or .msi installer file, download it, and install it.
 
-Whew, okay, now you're all set. A friend sent you an email with an attached .odt text document. Your Windows can't read that either, right now. You either have to buy your copy of Microsoft Office, or you just download LibreOffice, but you still have to find it, download it (hopefully you have a broadband connection), install it, etc.
+Whew, okay, now you're all set. A friend sent you an email with an attached .docx or .odt text document. Your Windows can't read that either, right now. You either have to buy your copy of Microsoft Office, or you just download LibreOffice, but you still have to find it, download it (hopefully you have a broadband connection), install it, etc.
 
-Your friend also sent you an image, but it has a bad contrast, bad brightness, and needs a good crop. So you go out and buy a paid subscription of Photoshop, or download GIMP (that's is the name of the free program that can do almost as much as Photoshop): search, download, install, and so on.
+Your friend also sent you an image, but it has a bad contrast, bad brightness, and needs a good crop. So you go out and buy a paid subscription of Photoshop, or download GIMP (that's the name of the free program that can do almost as much as Photoshop): search, download, install, and so on.
 
 That's enough: you get the idea, Windows is far from complete, and installing it is just the beginning of trouble.
 
