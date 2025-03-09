@@ -34,6 +34,33 @@ Isn't that a serious problem? You depend on a single company and trust them whol
 
 With open source, when a particular project or sponsoring company dies, all the code remains open to the community and people can continue to improve it. If this project is particulary useful to you, you can even do this yourself. If a particular bug annoys you, you can report it, talk to the developers, but even better, you can fix it yourself (or hire someone to do so), and send the changes back to the upstream developers so that everyone gets the improvement as well. You're free to do (almost) anything you want with the software.
 
+### When the system is installed, why would you _still_ need to install stuff?
+
+Installing Windows is just the beginning. Imagine you have just installed your brand-new copy of Windows 11 and are getting ready to unleash your computer skills. Okay, let's check for new email. Oh, there's no serious email client preinstalled on Windows. You could buy Microsoft Office to get Outlook up and running, or you could install Thunderbird. Either way, you have to go online, find a website where you can download an .exe or .msi installer file, download it, and install it.
+
+Whew, okay, now you're all set. A friend sent you an email with an attached .odt text document. Your Windows can't read that either, right now. You either have to buy your copy of Microsoft Office, or you just download LibreOffice, but you still have to find it, download it (hopefully you have a broadband connection), install it, etc.
+
+Your friend also sent you an image, but it has a bad contrast, bad brightness, and needs a good crop. So you go out and buy a paid subscription of Photoshop, or download GIMP (that's is the name of the free program that can do almost as much as Photoshop): search, download, install, and so on.
+
+That's enough: you get the idea, Windows is far from complete, and installing it is just the beginning of trouble.
+
+Your friend also sent you an image, but it has a bad contrast, bad brightness, and needs a good crop. So you go out and buy a paid subscription of Photoshop, or download GIMP (that's is the name of the free program that can do almost as much as Photoshop): search, download, install, and so on.
+
+That's enough: you get the idea, Windows is far from complete, and installing it is just the beginning of trouble.
+
+When you get Linux (such as Ubuntu, Fedora, etc., these are different "flavors" of Linux), you also get, without installing anything else:
+
+* everything you need to write text documents, edit spreadsheets or make nice presentations
+* a web browser (e.g., Firefox) and an email client (e.g., Thunderbird or Evolution)
+* an image editor (GIMP) almost as powerful as Photoshop
+* a movie player
+* a music player and organizer
+* a PDF reader
+* everything you need to decompress archives (ZIP, etc.)
+* etc.
+
+You can just start working right away.
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
