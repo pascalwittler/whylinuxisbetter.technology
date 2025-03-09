@@ -13,6 +13,11 @@ h3 {
   line-height: var(--line-height-h3);
 }
 
+ul,
+ol {
+  list-style-position: inside;
+}
+
 h2 + * {
   margin-top: var(--font-size-main);
 }
