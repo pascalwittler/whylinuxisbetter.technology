@@ -61,6 +61,16 @@ When you get Linux (such as Ubuntu, Fedora, etc., these are different "flavors" 
 
 You can just start working right away.
 
+### Forget about drivers.
+
+New pieces of hardware, even the simplest kind, usually comes with a CD or a download link that contains a very small piece of software called a "driver". If you read the instructions manual, you know that the hardware won't work on a Windows computer until you install the driver. If you're like most people and don't read the manual, then you'll probably figure it out on your own when you see that your new high-tech gizmo doesn't work out of the box.
+
+If you bought the hardware a while ago, and you're reusing it on another computer, you'll probably want to get the latest version of the driver from the manufacturer's website. This can take quite a while, considering how, huh, let's say, oddly organized some manufacturers' websites are.
+
+Okay, so that's just one piece of hardware. Now imagine that you want to install Windows on a whole new, untouched, computer. You'll have to wait for Windows Update or the Device Manager to detect your hardware, or actively click on it, or install third-party tools like Intel Driver Assistant or NVIDIA GeForce Experience, find the latest driver for each piece of hardware, install it, and reboot from time to time. And that is on top of an already lengthy Windows installation.
+
+Linux doesn't need separate drivers. All the drivers are already included in the Linux kernel, the core of the system, and come with every single Linux installation. This means a very quick and self-contained installation process. Once you're done with installing Linux, you have everything you need to start working (including the software you'll be using, see "When the system has installed …" article on this website) and ready to use peripherals.
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
