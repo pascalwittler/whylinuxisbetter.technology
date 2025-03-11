@@ -81,6 +81,34 @@ Linux has a central place called the _package manager_, which takes care of ever
 
 [Screenshot]
 
+### Why copy software illegally if you can get it for free?
+
+So you're perfectly clean, you've bought a license for all the software you've ever used, and nobody can bother you about it? Well, if that's the case, congratulations :)
+
+But for many people, let's face it, illegally copied software is very common. That's why software manufacturers are evolving and finding more and more ways to track down illegal owners, and since more and more people tend to have broadband (permanent) connections, they may add an online telemetry feature to the software that checks and verifies your copy every time you launch it, or you may have to create an account and log in on all your devices.
+
+If you run Linux and install free software, you'll never have to worry about this ever again! Most free (as in _free speech_) software is free (as in _free beer_). You can find a free alternative to most commercial software. They may lack some of the advanced features, but they'll be more than enough for most people. Here's a list of some commercial software, and their open source equivalents:
+
+| Commercial                     | Open Source                          | Exists on Windows? |
+|--------------------------------|--------------------------------------|--------------------|
+| Adobe Illustrator              | Inkscape                             | Yes                |
+| Adobe InDesign                 | Scribus                              | Yes                |
+| Adobe Photoshop                | The GIMP                             | Yes                |
+| Adobe Premiere                 | Pitivi, Kino, Cinelerra              | No                 |
+| Adobe Reader                   | Evince, Kpdf                         | Yes                |
+| Apple iTunes                   | AmaroK, Rhythmbox, Banshee           | Yes                |
+| Autodesk Autocad               | FreeCad                              | Yes                |
+| Autodesk 3ds Max               | Blender                              | Yes                |
+| Autodesk Maya                  | Blender                              | Yes                |
+| Bittorrent                     | Transmission                         | Yes                |
+| Microsoft Edge                 | Firefox, Chromium                    | Yes                |
+| Microsoft Word                 | LibreOffice Writer                   | Yes                |
+| Microsoft Excel                | LibreOffice Calc                     | Yes                |
+| Microsoft Powerpoint           | LibreOffice Impress                  | Yes                |
+| Microsoft Outlook              | Thunderbird, Evolution, KMail, Geary | Yes                |
+| Microsoft Windows Media Player | Mplayer, VLC, Totem, Kaffeine, Xine  | Yes                |
+| Nero                           | Brasero, K3b                         | No                 |
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
