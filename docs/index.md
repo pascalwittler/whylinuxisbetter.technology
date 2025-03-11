@@ -109,6 +109,23 @@ If you run Linux and install free software, you'll never have to worry about thi
 | Microsoft Windows Media Player | Mplayer, VLC, Totem, Kaffeine, Xine  | Yes                |
 | Nero                           | Brasero, K3b                         | No                 |
 
+### Need new software? Don't bother searching the web, Linux gets it for you.
+
+When you want to try a new piece of software in Windows, you'll need to:
+
+* search the web to find software that meets your needs,
+* find a website where you can download it,
+* maybe pay for it,
+* actually download the software,
+* install it by clicking through a dialog and
+* sometimes reboot your computer.
+
+On Linux, things are much simpler. Linux has something called a _package manager_: every piece of software is contained in its own _package_. When you need some new software, you simply open the package manager, type in a few keywords, select the software you want to install and press _Apply_ or _Install_. Or you can just browse through existing software in categories.
+
+[Screenshot]
+
+So one: no more surfing. Two: no more downloading and installing software yourself. Three: more time to actually try out the software.
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
