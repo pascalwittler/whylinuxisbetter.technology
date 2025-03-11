@@ -71,6 +71,16 @@ Okay, so that's just one piece of hardware. Now imagine that you want to install
 
 Linux doesn't need separate drivers. All the drivers are already included in the Linux kernel, the core of the system, and come with every single Linux installation. This means a very quick and self-contained installation process. Once you're done with installing Linux, you have everything you need to start working (including the software you'll be using, see "When the system has installed …" article on this website) and ready to use peripherals.
 
+### Update all your software with a single click.
+
+Windows has a pretty handy tool called _Windows Update_, that allows you to keep your system up to date with the latest available updates.
+
+But what about all of your non-Microsoft software? Adobe applications? ZIP compression tools? Media players? Non-Microsoft web browsers and email clients, etc.? You have to update them all, one by one. And that takes time because each one of them has its own (automatic) update system.
+
+Linux has a central place called the _package manager_, which takes care of everything installed on your system, but also every single piece of software your computer has. So if you want to keep everything up to date, all you have to do is press the _Install Updates_ button down there:
+
+[Screenshot]
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
