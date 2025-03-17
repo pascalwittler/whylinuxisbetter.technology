@@ -126,6 +126,16 @@ On Linux, things are much simpler. Linux has something called a _package manager
 
 So one: no more surfing. Two: no more downloading and installing software yourself. Three: more time to actually try out the software.
 
+### Why is Windows getting slower by the day?
+
+Windows has a number of design flaws that cause it to get slower and slower. You've probably heard someone say, "My computer's getting slower, I'm going to reinstall" more than once. Reinstalling Windows solves the problem … until next time.
+
+You might think that's just the way computers work. Well, try Linux and you'll be surprised. Five years from now, your system will be just as fast and responsive as the day you installed it, not to mention you won't have any viruses, adware, trojans, worms, etc. that would force you to reinstall anyway.
+
+I've convinced a lot of people to switch to Linux. Most of them are using mid-range computers that they've had for a couple of years but Linux hasn't let them down and is still running perfectly well and is still fast.
+
+Linux allows you to spend more time working and less time reinstalling.
+
 ## The few cases where you should stick to Windows (for now)
 
 ## The way to get Linux on your PC step by step
